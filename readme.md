@@ -8,6 +8,7 @@
 [POST /movies]Add a new movie
 
 [PUT /movies/:id] Update an existing movie
+
 [DELETE /movies/:id] Delete an existing movie
 
 
